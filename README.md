@@ -36,7 +36,7 @@ Here's features that you get out of the box:
 + Install latest [Python](https://python.org/downloads)
 + Clone Repository
     ```
-    git clone https://github.com/ruecat/ollama-telegram
+    git clone https://github.com/ruecat/ollama-telegram-raspi
     ```
 + Install requirements from requirements.txt
     ```
